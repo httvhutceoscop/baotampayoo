@@ -1,0 +1,18 @@
+
+Date: 2016-10-07 10:16:51
+REMOTE ADDR (expect 118.69.206.8) : ::1
+OrderNo: ORD_20161007093335
+OrderCashAmount: 50000
+State: PAYMENT_RECEIVED
+Notify Url: 
+Shop Domain: 
+Shop back url: 
+
+Date: 2016-10-07 10:17:28
+REMOTE ADDR (expect 118.69.206.8) : ::1
+OrderNo: ORD_20161007093335
+OrderCashAmount: 50000
+State: PAYMENT_RECEIVED
+Notify Url: 
+Shop Domain: 
+Shop back url: 

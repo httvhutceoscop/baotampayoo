@@ -1,0 +1,44 @@
+
+Date: 2016-10-07 09:37:00
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:38:42
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:39:54
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:40:57
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:43:23
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:48:56
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:55:24
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:56:43
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 09:56:50
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 10:00:06
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
+
+Date: 2016-10-07 10:14:50
+REMOTE ADDR (expect 118.69.206.8) : ::1
+: Không phải tin nhận được từ payoo
